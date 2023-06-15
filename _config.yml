@@ -18,12 +18,12 @@ timezone: America/Chicago
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Allison Mernka # the main title
+title: Allison Mernka's Page # the main title
 
-tagline: Just creating a site here # it will display as the sub-title
+tagline: Practing setting up a site # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Learning how to create a website
+  Blah, blah, blah, blah, blah, blah, blah, blah
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://amernka.github.io"
@@ -42,7 +42,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - # change to your twitter homepage
-    - https://github.com/amernka # change to your github homepage
+    - https://github.com/username # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
