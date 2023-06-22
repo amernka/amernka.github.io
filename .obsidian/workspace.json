@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "9fd102d610101e30",
@@ -155,10 +155,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a9320fa202c3530",
+  "active": "07c51fe28e78aff3",
   "lastOpenFiles": [
-    "Untitled.md",
     "_posts/2023-06-22-Temp.md",
+    "Untitled.md",
     "media"
   ]
 }
