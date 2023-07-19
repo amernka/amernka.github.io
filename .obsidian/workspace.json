@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-06-22-Temp.md",
+                "file": "_posts/2023-07-19-How to make a pull request.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 312.5
   },
   "right": {
     "id": "9fd102d610101e30",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-06-22-Temp.md",
+                "file": "_posts/2023-07-19-How to make a pull request.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-06-22-Temp.md",
+                "file": "_posts/2023-07-19-How to make a pull request.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-06-22-Temp.md"
+                "file": "_posts/2023-07-19-How to make a pull request.md"
               }
             }
           }
@@ -152,13 +152,18 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "07c51fe28e78aff3",
+  "active": "4a9320fa202c3530",
   "lastOpenFiles": [
+    "_posts/2023-07-19-Test Post.md",
+    "_posts/2023-07-19-How to make a pull request.md",
     "_posts/2023-06-22-Temp.md",
-    "Untitled.md",
+    "Templates/Posts_Main.md",
+    "_posts/2023-06-22-My-First-Post.md",
+    "Templates",
     "media"
   ]
 }

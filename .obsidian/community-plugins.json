@@ -1,4 +1,5 @@
 [
   "obsidian-git",
-  "update-relative-links"
+  "update-relative-links",
+  "templater-obsidian"
 ]
