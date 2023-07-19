@@ -11,8 +11,12 @@
             "id": "885c2364991829ac",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-06-22-Temp.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/2023-06-22-Temp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_posts/2023-06-22-Temp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_posts/2023-06-22-Temp.md"
+              }
             }
           }
         ]
@@ -141,11 +149,12 @@
   },
   "active": "885c2364991829ac",
   "lastOpenFiles": [
+    "media/Pasted image 20230719180545.png",
+    "_posts/2023-06-22-My-First-Post.md",
     "_posts/2023-07-19-Test Post.md",
     "_posts/2023-07-19-How to make a pull request.md",
     "_posts/2023-06-22-Temp.md",
     "Templates/Posts_Main.md",
-    "_posts/2023-06-22-My-First-Post.md",
     "Templates",
     "media"
   ]
